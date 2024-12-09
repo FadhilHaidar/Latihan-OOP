@@ -20,13 +20,31 @@ Buatlah package dan modul dengan struktur seperti berikut:
 
 # Tampilan Program
 
-1. Flowchart & Diagram Kelas
+1. Program Python
 
-2. Program Python
+- Modul data/mahasiswa.py
 
+  ![image](https://github.com/user-attachments/assets/8942fe01-5b3c-404a-a5ca-f6ec96d18c36)
+  
+  ![image](https://github.com/user-attachments/assets/c5e26ebf-817d-486c-8220-8d065d1073a7)
 
+- Modul view/input_form.py
 
-3. Penjelasan
+  ![image](https://github.com/user-attachments/assets/b7c5b16e-93f8-4132-b5d8-7011e08eeb9f)
+
+- Modul view/mahasiswa.py
+
+  ![image](https://github.com/user-attachments/assets/eb809049-b407-4bf9-b224-3e3ca72e6f02)
+
+- Main.py
+
+  ![image](https://github.com/user-attachments/assets/2f0285e2-17e5-404d-8eb2-4f4fc02a1867)
+
+  ![image](https://github.com/user-attachments/assets/784bdc2c-0b76-44fd-9d55-e50b220f4dc9)
+
+  ![image](https://github.com/user-attachments/assets/dbf17abf-8473-434a-829c-dd7b525a1f43)
+
+2. Penjelasan
 
   Program ini dirancang untuk mengelola data mahasiswa menggunakan paradigma berorientasi objek (OOP). Program dibagi menjadi beberapa modul untuk memisahkan tugas:
 
@@ -80,4 +98,8 @@ Buatlah package dan modul dengan struktur seperti berikut:
 
   - Looping: Program terus berjalan hingga pengguna memilih opsi keluar.
 
-4. Input & Output
+3. Input & Output
+
+  ![image](https://github.com/user-attachments/assets/40d06748-42d9-4d22-ae09-3049ec8524ad)
+
+  ![image](https://github.com/user-attachments/assets/60f36d4c-52ac-4b55-bae3-9366a369a046)
